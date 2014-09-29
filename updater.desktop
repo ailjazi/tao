@@ -2,4 +2,4 @@
 Name=updater
 Exec=bash ~/.tao/updater.sh
 Type=Application
-Terminal=false
+Terminal=true
