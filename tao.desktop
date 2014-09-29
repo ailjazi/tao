@@ -1,5 +1,5 @@
 [Desktop Entry]
 Name=tao
-Exec=~/.tao/tao.sh
+Exec=bash ~/.tao/tao.sh
 Type=Application
 Terminal=false

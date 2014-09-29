@@ -1,5 +1,5 @@
 [Desktop Entry]
 Name=updater
-Exec=~/.tao/updater.sh
+Exec=bash ~/.tao/updater.sh
 Type=Application
 Terminal=false
