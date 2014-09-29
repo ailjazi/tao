@@ -1,5 +1,5 @@
 [Desktop Entry]
+Type=Application
 Name=updater
 Exec=bash ~/.tao/updater.sh
-Type=Application
-Terminal=true
+X-GNOME-Autostart-enabled=true

@@ -1,5 +1,5 @@
 [Desktop Entry]
+Type=Application
 Name=tao
 Exec=bash ~/.tao/tao.sh
-Type=Application
-Terminal=true
+X-GNOME-Autostart-enabled=true
