@@ -4,15 +4,11 @@ Tao of the day.
 
 ## Description
 
-Get the Tao of the day every time you boot into your PC.
+Get the Tao of the day every time you boot to elementary OS.
 
 ## Screenshot
 
-![tao Screenshot](http://i.imgur.com/CK11AbA.png "tao Screenshot")
-
-## Information
-
-This is an elementary OS App.
+![tao Screenshot](https://raw.githubusercontent.com/ailjazi/tao/master/tao.png "tao Screenshot")
 
 ## Install
 
