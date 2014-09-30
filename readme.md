@@ -6,6 +6,10 @@ Tao of the day.
 
 Get the Tao of the day every time you boot into your PC.
 
+## Screenshot
+
+![tao Screenshot](http://i.imgur.com/CK11AbA.png "tao Screenshot")
+
 ## Information
 
 This is an elementary OS App.
