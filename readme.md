@@ -8,7 +8,7 @@ Get the Tao of the day every time you boot into your PC.
 
 ## Screenshot
 
-![tao Screenshot](http://i.imgur.com/CK11AbA.png "tao Screenshot")
+![tao Screenshot](https://raw.githubusercontent.com/ailjazi/tao/master/tao.png "tao Screenshot")
 
 ## Information
 
