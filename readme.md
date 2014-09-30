@@ -6,6 +6,9 @@ Tao of the day.
 
 Get the Tao of the day every time you boot into your PC.
 
+## Information
+
+This is an elementary OS App.
 
 ## Install
 
